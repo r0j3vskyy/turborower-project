@@ -1,0 +1,13 @@
+# Office
+~$*.docx
+~$*.xlsx
+
+# Sys, diag
+Thumbs.db
+*.log
+*.tmp
+*.bak
+
+# IDE
+.vscode/
+.idea/
