@@ -1,5 +1,5 @@
-# How-to?:
-# [Added] [Changed] [Fixed] [Removed]
+[//]: # How-to?:
+[//]: # [Added] [Changed] [Fixed] [Removed]
 
 ## Week 1:
 ### [Added]
