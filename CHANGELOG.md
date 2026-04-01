@@ -9,7 +9,7 @@
 - Sprawozdanie nr 1
 - Plik README.md
 
-## Week 2:
+## Week 2-3:
 ### [Added]
 - Analiza wymagań funkcjonalnych i jakościowych
 - Opis procesów biznesowych: Realizacja przejazdu, Rezerwacja, Obsługa serwisowa
@@ -22,3 +22,12 @@
 - Refraktoryzacja i korekta językowa dokumentacji głównej
 - Rozszerzenie struktury repozytorium na GitHubie
 - Zmiana i rozbudowa README.md
+
+## Week 4:
+### [Added]
+- Sprawozdanie nr 3 z postępu prac
+- Diagramy analityczne do każdego scenariusza przypadków użycia
+
+### [Changed]
+- Diagramy UML w dokumentacji
+- Dokumentacje przypadków użycia
