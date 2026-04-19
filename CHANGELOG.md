@@ -31,3 +31,15 @@
 ### [Changed]
 - Diagramy UML w dokumentacji
 - Dokumentacje przypadków użycia
+
+## Week 5:
+### [Added]
+- Strona tytułowa
+- Konceptualny Diagram Klas
+- Implementacyjny Diagram Klas
+- Sprawozdanie nr 4 z postępu prac
+- Skład pojedynczego scenariusza (spis treści)
+
+### [Changed]
+- Aktor "Pojazd" -> "Dostawca usługi IoT" w diagramach
+- Opisy aktora "pojazd" pod kątem zgodności z nowym nazewnictwem
