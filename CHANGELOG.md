@@ -43,3 +43,6 @@
 ### [Changed]
 - Aktor "Pojazd" -> "Dostawca usługi IoT" w diagramach
 - Opisy aktora "pojazd" pod kątem zgodności z nowym nazewnictwem
+
+### [Fixed]
+- Poprawa niektórych diagramów
