@@ -1,7 +1,7 @@
 [//]: # (How-to?:)
 [//]: # ([Added] [Changed] [Fixed] [Removed])
 
-## Week 1:
+## Report 1:
 ### [Added]
 - Kontekst dziedziny problemowej i podstawowy słownik pojęć
 - Tabela procesów i aktorów biznesowych
@@ -9,7 +9,7 @@
 - Sprawozdanie nr 1
 - Plik README.md
 
-## Week 2-3:
+## Report 2:
 ### [Added]
 - Analiza wymagań funkcjonalnych i jakościowych
 - Opis procesów biznesowych: Realizacja przejazdu, Rezerwacja, Obsługa serwisowa
@@ -23,7 +23,7 @@
 - Rozszerzenie struktury repozytorium na GitHubie
 - Zmiana i rozbudowa README.md
 
-## Week 4:
+## Report 3:
 ### [Added]
 - Sprawozdanie nr 3 z postępu prac
 - Diagramy analityczne do każdego scenariusza przypadków użycia
@@ -32,7 +32,7 @@
 - Diagramy UML w dokumentacji
 - Dokumentacje przypadków użycia
 
-## Week 5:
+## Report 4:
 ### [Added]
 - Strona tytułowa
 - Konceptualny Diagram Klas
@@ -46,3 +46,12 @@
 
 ### [Fixed]
 - Poprawa niektórych diagramów
+
+## Report 5:
+### [Added]
+- Diagram obiektów
+- Diagram relacyjnej bazy danych
+
+### [Fixed]
+- Implementacyjny diagram klas
+- Konceptualny diagram klas
