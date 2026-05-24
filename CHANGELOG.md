@@ -55,3 +55,13 @@
 ### [Fixed]
 - Implementacyjny diagram klas
 - Konceptualny diagram klas
+
+## Report 6:
+### [Added]
+- Interfejs użytkownika
+- Spis treści
+- Rozdziały, podrozdziały
+- Spis prac zespołu
+
+### [Changed]
+- Formatowanie, struktura i wygląd całej dokumentacji
